@@ -1,0 +1,10 @@
+#RACINE
+readme.html
+license.txt
+
+#CONFIG
+wp-config.php
+wp-config-sample.php
+
+#MEDIAS
+wp-content/uploads/
