@@ -16,6 +16,9 @@
 get_header(); ?>
 
 <div id="page" role="main">
+	<p>
+		Modif steve 1 (develop steve)
+	</p>
 	<article class="main-content">
 	<?php if ( have_posts() ) : ?>
 
