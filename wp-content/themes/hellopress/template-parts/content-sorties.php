@@ -16,7 +16,7 @@
 	<?php if ( have_posts() ) : ?>
 		<?php while ( have_posts() ) : the_post(); ?>
 			<article class="text-center medium-4 column end">
-					<?php the_post_thumbnail( null, $size, $attr ); ?>
+					<?php the_post_thumbnail( 'vignette' ); ?>
 				<h3 class="">
 					<?php the_title(); ?>
 				</h3>
