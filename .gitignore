@@ -8,3 +8,4 @@ wp-config.php
 
 #MEDIAS
 wp-content/uploads/
+wp-content/themes/hellopress/.vscode/settings.json
